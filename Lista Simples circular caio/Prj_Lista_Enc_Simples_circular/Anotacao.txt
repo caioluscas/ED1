@@ -1,0 +1,1 @@
+Falha em "ocorrências", fica perguntando por valor a inserir e falha. Libera_recursivo em falta e libera em falha.

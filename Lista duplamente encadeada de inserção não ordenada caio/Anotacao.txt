@@ -1,0 +1,1 @@
+O tratamento de remoção do último nó falha, gerando exceção em seguida para o tratamento de lista vazia. Demais, ok.
